@@ -45,5 +45,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do codigo phan, phpcs e phpunit"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscador-cursos.php"]
 }
